@@ -1,0 +1,108 @@
+{
+  "timestamp": "2025-12-02T04:58:36.673424",
+  "total_tests": 20,
+  "passed_tests": 20,
+  "success_rate": 100.0,
+  "test_details": [
+    {
+      "test": "User Registration",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "User Login",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Get User Profile",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Invalid Auth Test",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Create Income Transaction",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Create Expense Transaction",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Get All Transactions",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Transaction List Format",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Get Income Transactions",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Get Expense Transactions",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Get Single Transaction",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Update Transaction",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Create Budget",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Get Budgets",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Get Summary Report",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Summary Report Structure",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Get Monthly Report",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Monthly Report Format",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Delete Budget",
+      "success": true,
+      "details": ""
+    },
+    {
+      "test": "Delete Transaction",
+      "success": true,
+      "details": ""
+    }
+  ]
+}
